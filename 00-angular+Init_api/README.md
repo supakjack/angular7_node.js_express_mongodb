@@ -1,3 +1,15 @@
+ng new helloAngular7
+ng serve --open
+npm install express --save
+mkdir server
+make route
+make post api
+test api by post man
+npm install body-parser --save
+import angular module
+allow cross origin
+show alert data
+
 # HelloAngular7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4.
